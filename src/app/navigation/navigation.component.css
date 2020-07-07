@@ -1,0 +1,22 @@
+header {
+  align-items: baseline;
+  display: flex;
+  height: 50px;
+  padding-left: 10px;
+}
+
+nav {
+  width: 70%;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  display: block;
+  padding: 20px 15px;
+}
+.title {
+  width: 30%;
+}

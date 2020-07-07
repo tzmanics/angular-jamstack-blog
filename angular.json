@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-jamstack-blog"
+    }
+  },
+  "defaultProject": "angular-jamstack-blog",
+  "cli": {
+    "analytics": "6df14bb2-8b0e-4741-8e2e-30dba60b781c"
+  }
 }
