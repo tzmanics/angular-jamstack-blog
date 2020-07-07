@@ -1,0 +1,3 @@
+[build]
+  command = "ng build --prod && npm run scully -- --scanRoutes"
+  publish = "dist/static"
