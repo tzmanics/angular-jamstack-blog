@@ -12,6 +12,7 @@ topics:
 tweet: ""
 format: blog
 canonical_url: https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/
+publish: true
 ---
 
 # Introducing Edge Handlers in Preview

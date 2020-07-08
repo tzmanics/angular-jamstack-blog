@@ -20,6 +20,7 @@ seo:
   metadescription: >-
     Learn how to start transitioning Angular sites to the Jamstack. In this tutorial, we pre-render homepage content using Scully and store assets on the cloud. Get up and deployed in no time!
   metatitle: Create Fast, Pre-rendered Pages in Angular using Scully
+publish: true
 ---
 
 # Creating a Pre-rendered Home Page with Angular and Scully

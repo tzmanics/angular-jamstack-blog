@@ -26,6 +26,7 @@ seo:
     sensitive environment variables. Learn how we've improved them for even
     greater control.
   ogimage: /img/blog/netlify-ci-cd-deploy-previews.png
+publish: true
 ---
 
 # Environment variables and preview deploys get a boost

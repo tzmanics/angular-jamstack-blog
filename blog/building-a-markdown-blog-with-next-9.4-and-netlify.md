@@ -24,6 +24,7 @@ seo:
     Markdown blog and deploy it to Netlify. A great project for getting started
     with Next.js (tutorial using latest 9.4.4).
   ogimage: /img/blog/nextjs-demo-blog-netlify.png
+publish: true
 ---
 
 # Building a Markdown blog with Next 9.4 and Netlify
