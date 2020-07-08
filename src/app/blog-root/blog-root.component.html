@@ -2,7 +2,6 @@
 <div class="blog-posts">
   <ul>
     <li *ngFor="let post of posts$ | async">
-      <hr />
       <a [routerLink]="post.route">
         <div class="post-card">
           <h2>{{ post.title }}</h2>

@@ -1,8 +1,14 @@
 *,
 body {
-  background-color: rgba(255, 255, 255, 0.7);
   font-family: "Muli", sans-serif;
   margin: 0;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.95);
+}
+a {
+  color: black;
+  text-decoration: none;
 }
 
 h1 {

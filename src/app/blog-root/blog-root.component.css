@@ -1,0 +1,18 @@
+ul {
+  list-style: none;
+  margin: 0 auto;
+  max-width: 800px;
+  min-width: 500px;
+  padding: 0;
+  width: 90%;
+}
+li {
+  background-color: #f6f93c38;
+  border-radius: 20px;
+  box-shadow: 0 7px 20px -6px black;
+  margin: 25px;
+  padding: 15px;
+}
+li p {
+  margin: 10px 0;
+}
