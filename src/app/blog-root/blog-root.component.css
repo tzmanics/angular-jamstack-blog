@@ -16,3 +16,6 @@ li {
 li p {
   margin: 10px 0;
 }
+.post-card h2 {
+  margin-top: 0;
+}

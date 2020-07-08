@@ -14,15 +14,8 @@
   width: 80%;
   padding: 30px;
 }
-.blogpost a {
-  color: green;
-}
 
-.blogpost a:hover {
-  color: darkgreen;
-}
-
-.blogpost img {
+.blog-post img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -30,6 +23,6 @@
   width: 90%;
 }
 
-.blogpost li {
+.blog-post li {
   list-style-type: disc;
 }
