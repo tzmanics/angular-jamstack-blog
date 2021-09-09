@@ -1,3 +1,6 @@
 [build]
   command = "npm run jam-it"
   publish = "dist/static"
+
+[[plugins]]
+  package = "netlify-plugin-chromium"
