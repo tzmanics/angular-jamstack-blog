@@ -10,7 +10,7 @@
     "e2e": "ng e2e",
     "scully": "scully",
     "scully:serve": "scully serve",
-    "jam-it": "ng build && npm run scully"
+    "jam-it": "ng build && npx scully"
   },
   "private": true,
   "dependencies": {
