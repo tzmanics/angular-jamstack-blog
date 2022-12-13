@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~12.2.5",
     "@angular/platform-browser-dynamic": "~12.2.5",
     "@angular/router": "~12.2.5",
-    "@scullyio/init": "^1.1.4",
+    "@scullyio/init": "^2.1.41",
     "@scullyio/ng-lib": "latest",
     "@scullyio/scully": "latest",
     "rxjs": "~6.5.4",
